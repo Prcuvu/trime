@@ -1,5 +1,5 @@
 # 同文最新測試版  
-**文件名：** app-release.apk [點擊下載](release/app-release.apk)  
+**文件名：** ~~app-release.apk~~
 **SHA256：** 5783d34c7d2f863b27c4d347be87dd7364d8c8ec5a91e998aad57fb2dd7c6c81  
 **Trime版本：** [3.1.3-25-g4e98fea-20200330](https://github.com/osfans/trime/commits/4e98fea9ba37efe9effede267cc7ab53b082c83e)  
 **RIME版本：** [1.5.3-8-g3b5dbf6](https://github.com/rime/librime/commits/3b5dbf61527cc128d482c4726017d1516d59c3d4)  
